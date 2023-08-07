@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Note Taker</title>
+  <link rel="stylesheet" href="/assets/style.css">
+  <!-- Add Font Awesome link here -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-Nqa1e0k6AFVhGtTzyQyP0p1T1blK7T81aqf6pvEMpsfpaa56qD4+ANa+QvhDPhkiRL2s1AzeCb/3lYK5vWtpw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <header>
+    <h1>Note Taker</h1>
+    <nav>
+      <a href="/"><i class="fas fa-home"></i></a>
+      <a href="#" id="new-note"><i class="fas fa-pen"></i></a>
+    </nav>
+  </header>
+  <main>
+    <div class="notes">
+      <!-- Existing notes will be dynamically added here -->
+    </div>
+    <div class="note-form">
+      <h2>Add a New Note</h2>
+      <form id="note-form">
+        <label for="note-title">Title</label>
+        <input type="text" id="note-title" placeholder="Title" required>
+        <label for="note-text">Note</label>
+        <textarea id="note-text" placeholder="Note" required></textarea>
+        <button type="submit">Save</button>
+      </form>
+    </div>
+  </main>
+  <script src="https://kit.fontawesome.com/your-fontawesome-kit.js"></script>
+  <script src="/assets/script.js"></script>
+</body>
+</html>
