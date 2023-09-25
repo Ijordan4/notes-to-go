@@ -1,10 +1,8 @@
 # notes-to-go
-
-
-#Description
+## Description
 "Notes To Go" is a simple note-taking application designed to help you quickly jot down and organize your thoughts, ideas, and important information on the go. Whether you're in a meeting, brainstorming session, or just need a place to capture your thoughts, this app has you covered.
 
-#Features
+## Features
 Create and Edit Notes: Easily create new notes or edit existing ones.
 Organize Your Notes: Group and categorize your notes with tags and labels.
 Search and Filter: Quickly find specific notes with a powerful search and filter functionality.
