@@ -39,3 +39,5 @@ The Note Taker application is designed to help users create, save, and manage no
 5. Open a web browser and visit http://localhost:3001
 
 ### Demo Video
+https://github.com/Ijordan4/notes-to-go/assets/124106922/3fd1075d-37d5-41ed-ac98-0c0e79d2ab81
+
